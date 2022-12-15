@@ -1,0 +1,8 @@
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\bin\x64\Debug\ImplantCSharp.exe.config
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\bin\x64\Debug\ImplantCSharp.exe
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\bin\x64\Debug\ImplantCSharp.pdb
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\obj\x64\Debug\ImplantCSharp.csproj.AssemblyReference.cache
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\obj\x64\Debug\ImplantCSharp.csproj.SuggestedBindingRedirects.cache
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\obj\x64\Debug\ImplantCSharp.csproj.CoreCompileInputs.cache
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\obj\x64\Debug\ImplantCSharp.exe
+C:\RTO\CRTL\ImplantCSharp\ImplantCSharp\obj\x64\Debug\ImplantCSharp.pdb
